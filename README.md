@@ -1,2 +1,2 @@
 # CrossyRoad
-Make with C++.
+Crossy Road game make with C++.
